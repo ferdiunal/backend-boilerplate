@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1727849147053,
+      "tag": "20241002060547_optimal_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1727849994379,
+      "tag": "20241002061954_complete_morbius",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1727850233939,
+      "tag": "20241002062353_wealthy_riptide",
+      "breakpoints": true
+    }
+  ]
+}
